@@ -2,22 +2,33 @@
 
 # Hi, I'm Soutik 👋
 
-### Backend Engineer · Distributed Systems · Competitive Programmer
+### Software Engineer · System Design · Scalable Platforms · AI Integrations
 
-I build reliable backend systems and developer tools with a focus on clean architecture, observability, and practical problem solving.
+I design and build dependable software with a focus on **scalable systems, thoughtful architecture, and real-world impact**. I enjoy going deep on hard problems—understanding the trade-offs, finding the simplest robust solution, and turning ideas into systems that can grow.
 
 [![GitHub followers](https://img.shields.io/github/followers/braindroid?style=flat-square&logo=github&label=Followers)](https://github.com/braindroid?tab=followers)
 ![Profile views](https://komarev.com/ghpvc/?username=braindroid&style=flat-square&color=4c8eda)
 
 </div>
 
+<p align="center">
+  <img width="100%" alt="Animated distributed system data flow" src="./assets/system-flow.svg">
+</p>
+
+<p align="center">
+  <a href="https://braindroid.github.io/braindroid/game/"><img alt="Play Systems Runner" src="https://img.shields.io/badge/▶_PLAY-SYSTEMS_RUNNER-70E1C1?style=for-the-badge&labelColor=111827"></a>
+</p>
+
+<p align="center"><sub>Keep the request alive. Jump over latency spikes. Collect AI boosts. How far can your system scale?</sub></p>
+
 ## 👨‍💻 About me
 
-- Building backend and distributed systems for **payments, ledgers, and fintech**
-- Interested in **event-driven architecture, stream processing, and scalable infrastructure**
-- Solving data-structure and algorithm problems across leading competitive-programming platforms
-- Exploring better ways to make software observable, maintainable, and resilient
-- Currently expanding my portfolio with practical **Java, Go, Python, and JavaScript** projects
+- Designing backend and distributed systems for **payments, ledgers, and fintech**
+- Deeply interested in **system design, scalable platforms, event-driven architecture, and stream processing**
+- Exploring **AI integrations** that make products and engineering workflows more intelligent
+- Solving algorithmic problems with an emphasis on fundamentals, trade-offs, and clear reasoning
+- Thinking beyond code: reliability, failure modes, observability, maintainability, and the humans operating the system
+- Building with **Java, Go, Python, and JavaScript**
 
 ## 🧰 Skills
 

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Systems Runner — an engineering-themed endless runner by braindroid">
+  <title>Systems Runner</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <a class="back" href="https://github.com/braindroid">← github.com/braindroid</a>
+    <header><span>INCIDENT MODE</span><h1>Systems Runner</h1><p>Keep the request alive. Dodge failures. Collect AI boosts. Scale without limits.</p></header>
+    <section class="console">
+      <div class="metrics"><div><small>SCORE</small><strong id="score">00000</strong></div><div><small>UPTIME</small><strong id="uptime">100.00%</strong></div><div><small>LEVEL</small><strong id="level">1</strong></div><div><small>BEST</small><strong id="best">00000</strong></div></div>
+      <canvas id="game" width="1000" height="360" aria-label="Systems Runner game"></canvas>
+      <div id="overlay"><h2>READY TO SCALE?</h2><p>Press <kbd>Space</kbd>, <kbd>↑</kbd>, or tap to jump</p><button id="start">Deploy</button></div>
+    </section>
+    <div class="legend"><span><i class="latency"></i> latency spike</span><span><i class="outage"></i> outage</span><span><i class="ai"></i> AI boost</span></div>
+  </main>
+  <script src="game.js"></script>
+</body>
+</html>
